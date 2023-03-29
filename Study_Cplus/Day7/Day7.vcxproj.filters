@@ -15,37 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code69_ConstObject.cpp">
+    <ClCompile Include="code80_classTest.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="code70_ConstOverloading.cpp">
+    <ClCompile Include="code81_ObjectPointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="code71_MyFriendClass.cpp">
+    <ClCompile Include="code82_EmployeeManager3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="code72_MyFriendFunction.cpp">
+    <ClCompile Include="code83_virtual.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="code73_CComStatic.cpp">
+    <ClCompile Include="code84_FunctionOverride.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="code74_NeedGlobal.cpp">
+    <ClCompile Include="code85_FunctionVirtualOverride.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="code75_StaticMember.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="code76_PublicStaticMember.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="code77_ConstStaticMember.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="code78_Mutable.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="code79_UnivStudentInheri.cpp">
+    <ClCompile Include="code86_Poly.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
